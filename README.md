@@ -25,31 +25,50 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on becoming a 10x developer
-- 🌱 I’m currently learning the best ways of working to maximize value delivery
-- 👯 I’m looking to collaborate on fun projects to learn
-- 🤔 I’m looking for help with understanding the inner-workings of technology
+- 🚀 Always building, always curious—my code is fueled by caffeine and curiosity
+- 📚 Currently experimenting with new tech stacks and sharing what I learn along the way
+- 🤝 Open to teaming up on quirky or ambitious projects—let’s make something unexpected happen
+- 🧩 Love digging into how things work, from code to coffee machines
 - 💬 Ask me about anything! If I don't know, I will know something new to learn.
 - 📫 How to reach me: chee.jk@gmail.com
-- ⚡ Fun fact: There's something called a chaos monkey that people use for SRE 
+- ⚡ Fun fact: My favorite debugging tool is a fresh cup of coffee
+
 
 ---
 
 ### 🛠 &nbsp;Tech Stack
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50px" height="50px" />&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript logo" width="50px" height="50px" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50px" height="50px" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node logo" width="50px" height="50px" />&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express logo" width="50px" height="50px" />&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git logo" width="50px" height="50px" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" alt="FileZilla logo" width="50px" height="50px" />&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50px" width="50px" height="50px" />&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github logo" width="50px" width="50px" height="50px" />&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux logo" width="50px" width="50px" height="50px" />&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP logo" width="50px" height="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg" alt="Putty logo" width="50px" height="50px" />
+<!-- Languages -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40" />
 
+<!-- Frameworks & Libraries -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" />
+
+<!-- Databases -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+
+<!-- DevOps, Hosting & Security -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" alt="FileZilla" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg" alt="Putty" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="Apache" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/ssl/ssl-original.svg" alt="SSL" width="40" />
+
+<!-- Networking & CDN -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40" />
 
 ### ⚙️ &nbsp;GitHub Analytics
 
