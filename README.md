@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux" width="50" height="50" />&nbsp;&nbsp;
@@ -59,6 +59,18 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="Apache" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="50" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" alt="Visual Studio Code" width="50" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="50" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="RaspberryPi" width="50" height="50" />&nbsp;&nbsp;
+
+
+
+" alt="Cloudflare" width="50" height="50" />&nbsp;&nbsp;
+
+
+
 
 ---
 
