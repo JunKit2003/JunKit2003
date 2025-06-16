@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" width="50" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" />&nbsp;&nbsp;
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux" width="50" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" alt="FileZilla" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-plain.svg" alt="Putty" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="Apache" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="50" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" alt="Visual Studio Code" width="50" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="50" height="50" />&nbsp;&nbsp;
