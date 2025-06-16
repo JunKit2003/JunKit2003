@@ -66,3 +66,11 @@ Here are some ideas to get you started:
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+
+<a href="https://www.linkedin.com/in/cheejunkit/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chee%20Jun%20Kit-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="https://www.instagram.com/junkit._"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-junkit._-blue?style=flat-square&logo=instagram"></a>
