@@ -67,11 +67,6 @@ Here are some ideas to get you started:
 
 
 
-" alt="Cloudflare" width="50" height="50" />&nbsp;&nbsp;
-
-
-
-
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
