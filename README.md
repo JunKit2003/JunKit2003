@@ -102,7 +102,8 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JunKit2003/JunKit2003/main/github-metrics.svg" alt="Jun Kit's GitHub metrics" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunKit2003&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="Jun Kit's GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunKit2003&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/>
 
@@ -111,23 +112,5 @@
 <br/>
 
 [![Jun Kit's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JunKit2003&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 🏆 &nbsp;Achievements
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/JunKit2003/JunKit2003/main/github-achievements.svg" alt="GitHub achievements" />
-
-</div>
-
----
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/JunKit2003/JunKit2003/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
