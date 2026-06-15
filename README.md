@@ -109,8 +109,8 @@ reach_me: chee.jk@gmail.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunKit2003&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="Jun Kit's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunKit2003&layout=compact&langs_count=8&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats1-git-main-jk-readme-projects.vercel.app/api?username=JunKit2003&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa" alt="Jun Kit's GitHub stats" />
+<img height="180em" src="https://github-readme-stats1-git-main-jk-readme-projects.vercel.app/api/top-langs/?username=JunKit2003&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Top languages" />
 
 <br/>
 
