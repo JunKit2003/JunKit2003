@@ -74,8 +74,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunKit2003&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="Jun Kit's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunKit2003&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/JunKit2003/JunKit2003/main/github-metrics.svg" alt="Jun Kit's GitHub metrics" />
 
 <br/>
 
@@ -89,11 +88,11 @@
 
 ---
 
-### 🏆 &nbsp;Trophies
+### 🏆 &nbsp;Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JunKit2003&theme=radical&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://raw.githubusercontent.com/JunKit2003/JunKit2003/main/github-achievements.svg" alt="GitHub achievements" />
 
 </div>
 
